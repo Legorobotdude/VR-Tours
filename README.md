@@ -1,5 +1,7 @@
 # VR-Tours
 
+![alt text](https://media.githubusercontent.com/media/Legorobotdude/VR-Tours/master/Pictures/ScreenShot1.PNG)
+
 This project aims to provide an open source implementation of a Virtual Reality tour, with easily customizable custom setup for informational popups.
 
 VR-Tours is an open source framework that lets users create a virtual reality tour
@@ -32,7 +34,7 @@ https://github.com/thestonefox/VRTK/blob/master/README.md
 VRTK documentation: https://github.com/thestonefox/VRTK
 
 # Contributing
-See CONTRIBUTING.MD
+See  [CONTRIBUTING.MD](https://github.com/Legorobotdude/VR-Tours/blob/master/CONTRIBUTING.md)
 
 # License
 Copyright 2019 Aditya Bawankule, Jaewook Lee, Raahul Natarrajan
